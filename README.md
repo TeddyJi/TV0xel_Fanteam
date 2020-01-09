@@ -1,5 +1,5 @@
 
-![TV0xel-2020-Bluestone](https://github.com/TeddyJi/TV0xel_Fanteam/edit/master/shotnew.png)
+![TV0xel-2020-Bluestone](https://github.com/TeddyJi/TV0xel_Fanteam/blob/master/shotnew.png)
 
 
 
