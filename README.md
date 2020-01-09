@@ -1,18 +1,10 @@
-### TV0xel_Fanteam
-饭制下载器而已，最近版本更新很松，饭制最近可能不更，对不起。
-谢谢大家的支持，要下载饭制的就去资源区找吧！TV0xel可以在release里面找到下载地址哦。
 
-使用方法：
-===========================
-1.下载TV0xel
-进入releases界面即可
-===========================
-2.下载饭制
-点击“饭制资源”图标然后进入链接，选DLFan，在里面可以下载跳舞的线饭制
-点击“饭制资源”图标然后进入链接，选RSFan，在里面可以下载滚动天空饭制
-===========================
-3.ESCMode
-查找版本ID和序列号使用
-===========================
-4.BetaTest.exe
-这个东西在5.0-beta内自带，可用于任意版本查询Build ID和Device ID
+![TV0xel-2020-Bluestone](https://github.com/TeddyJi/TV0xel_Fanteam/edit/master/shotnew.png)
+
+
+
+TV0xel Orchid 2020上市了！感谢大家2019年的陪伴，TV0xel Bluestone会发布来感谢大家！
+
+
+
+饭制下载器qwq，在releases里边下载，然后解压即可使用！
