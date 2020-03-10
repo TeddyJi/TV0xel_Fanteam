@@ -10,8 +10,8 @@ TV0xel Orchid 2020上市了！感谢大家2019年的陪伴，TV0xel Bluestone会
 
 ------
 
-![]( https://github.com/TeddyJi/TV0xel_Fanteam/blob/master/imgs/cl.png )
+![]( https://github.com/TeddyJi/TV0xel_Fanteam/raw/master/imgs/cl.png )
 
 
 
-![]( https://github.com/TeddyJi/TV0xel_Fanteam/blob/master/imgs/Kamela.PNG )
+![]( https://github.com/TeddyJi/TV0xel_Fanteam/raw/master/imgs/Kamela.PNG )
