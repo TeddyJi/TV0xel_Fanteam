@@ -1,6 +1,6 @@
 
 
-![]( https://github.com/TeddyJi/TV0xel_Fanteam/blob/master/shotnew.png )
+![]( https://github.com/TeddyJi/TV0xel_Fanteam/raw/master/shotnew.png )
 
 TV0xel Orchid 2020上市了！感谢大家2019年的陪伴，TV0xel Bluestone会发布来感谢大家！
 
